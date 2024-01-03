@@ -8,3 +8,7 @@ p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bolder;
 }
+img{
+    width: 500px;
+    height: 500px;
+}
